@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abidlatif
-- 👀 I’m interested in ..Data Analysis, predictive Analysis
+- 👀 I’m interested in ..Data Analyst, Data Engineering
 - 🌱 I’m currently learning . Analysis techniques using Python,R 
-- 💞️ I’m looking to collaborate on . Analysis projects
+- 💞️ I’m looking to collaborate on . Analytic & Engineering projects
 - 📫 How to reach me ..Just Sent Me PM
 
 <!---
